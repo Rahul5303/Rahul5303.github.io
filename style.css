@@ -772,4 +772,8 @@
       line-height: 38px;
     }
   }
+
+  .githubcalendar .title::after {
+    content: "How Much I Code";
+  }
   
